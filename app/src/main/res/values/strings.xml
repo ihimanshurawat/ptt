@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ptt</string>
+    <string name="ptt">ptt</string>
+    <string name="search_ptt">search ptt</string>
+    <string name="gallery">gallery</string>
+    <string name="camera">camera</string>
 </resources>
